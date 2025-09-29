@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+
+@media (max-width: 440px) {
+  #options {
+    flex-direction: column;
+    gap: 0.5rem;
+   
+  }
+}
